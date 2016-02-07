@@ -37,7 +37,7 @@
     <?php require("./templates/header.html"); ?>
     <?php require("./templates/portfolio.html"); ?>
     <?php require("./templates/about.html"); ?>
-    <?php require("./templates/contact.html"); ?>
+    <?php // require("./templates/contact.html"); ?>
     <?php require("./templates/footer.html"); ?>
 
     <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
