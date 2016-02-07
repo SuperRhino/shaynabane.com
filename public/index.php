@@ -48,12 +48,12 @@
     </div>
 
     <!-- Portfolio Modals -->
-    <?php require("./templates/portfolio/modal1.html"); ?>
-    <?php require("./templates/portfolio/modal2.html"); ?>
-    <?php require("./templates/portfolio/modal3.html"); ?>
-    <?php require("./templates/portfolio/modal4.html"); ?>
-    <?php require("./templates/portfolio/modal5.html"); ?>
-    <?php require("./templates/portfolio/modal6.html"); ?>
+    <?php require("./templates/portfolio/modal1-branding.html"); ?>
+    <?php require("./templates/portfolio/modal2-design.html"); ?>
+    <?php require("./templates/portfolio/modal3-ecommerce.html"); ?>
+    <?php require("./templates/portfolio/modal4-blogging.html"); ?>
+    <?php require("./templates/portfolio/modal5-email.html"); ?>
+    <?php require("./templates/portfolio/modal6-social.html"); ?>
 
     <?php require("./templates/scripts.html"); ?>
 </body>
